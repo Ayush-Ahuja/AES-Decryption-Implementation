@@ -1,5 +1,3 @@
-# AES-Decryption-Implementation
-
 # **AES-128 Decryption Hardware Implementation on FPGA**   
 
 ## **Overview**  
@@ -45,7 +43,3 @@ This project implements **AES-128 decryption** in **VHDL**, designed for executi
 ## **References**  
 📄 AES Standard: [FIPS-197](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf)  
 📄 Xilinx FPGA Docs: [Xilinx Artix-7 Reference](https://www.xilinx.com/products/silicon-devices/fpga/artix-7.html)  
-
----
-
-This README provides **clear explanations, setup instructions, and future work**, making it ideal for GitHub. Let me know if you want to modify anything! 🚀
